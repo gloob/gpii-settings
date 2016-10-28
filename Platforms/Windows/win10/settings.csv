@@ -1,4 +1,4 @@
-Key,Value
+Key,Description
 "@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/Proxy_Automatic_Config_Group/Description}","Change proxy settings"
 "@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/Proxy_Automatic_Config_Group/HighKeywords}","configuration configurations"
 "@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SettingsGroupAppSizesList/Description}","Apps & features"
