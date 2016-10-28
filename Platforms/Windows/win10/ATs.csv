@@ -1,5 +1,4 @@
-#TYPE Microsoft.Win32.RegistryKey
-Ats
+ATs
 "Property","PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","SubKeyCount","View","Handle","ValueCount","Name"
 "System.String[]","Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs","Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility","ATs","HKLM","Microsoft.PowerShell.Core\Registry","True","27","Default","Microsoft.Win32.SafeHandles.SafeRegistryHandle","0","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs"
 "System.String[]","Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs\animations","Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs","animations","HKLM","Microsoft.PowerShell.Core\Registry","True","0","Default","Microsoft.Win32.SafeHandles.SafeRegistryHandle","4","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs\animations"
