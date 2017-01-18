@@ -1,0 +1,22 @@
+/*
+JAWS - PrefSet B.
+
+(Speech) Rate = 100
+Typing Echo = Word
+
+*/
+{
+    "flat": {
+        "contexts": {
+            "gpii-default": {
+                "name": "Default preferences",
+                "preferences": {
+                    "http://registry.gpii.net/applications/com.freedomscientific.jaws": {
+                        "cloud4allVoiceProfile-GlobalContext.Speed": 100,
+                        "options.TypingEcho": 2
+                    }
+                }
+            }
+        }
+    }
+}
