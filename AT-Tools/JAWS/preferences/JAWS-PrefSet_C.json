@@ -1,0 +1,21 @@
+{
+    "flat": {
+        "contexts": {
+            "gpii-default": {
+                "name": "Default preferences",
+                "preferences": {
+                    "http://registry.gpii.net/common/speechRate": 75,
+                    "http://registry.gpii.net/common/keyEcho": true,
+                    "http://registry.gpii.net/common/wordEcho": true,
+                    "http://registry.gpii.net/applications/com.freedomscientific.jaws": {
+                        "options.InsertKeyMode": 1,
+                        "options.KeyRepeat": 0,
+                        "options.SayAllMode": 0,
+                        "options.LinePauses": 1,
+                        "options.JAWSPunctuationEnabled": 1
+                    }
+                }
+            }
+        }
+    }
+}
